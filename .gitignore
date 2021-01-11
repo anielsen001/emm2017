@@ -1,0 +1,8 @@
+# emacs remainders
+*~
+\#*\#
+
+# build products
+*.o
+*.so
+*.exe
