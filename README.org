@@ -1,0 +1,4 @@
+#+TITLE: Enhanced Magnetic Model 2017
+
+This is a copy of the Enhanced Magnetic Model 2017 source code from NOAA. The original can be found here: https://www.ngdc.noaa.gov/geomag/EMM/
+
