@@ -2,3 +2,4 @@
 
 This is a copy of the Enhanced Magnetic Model 2017 source code from NOAA. The original can be found here: https://www.ngdc.noaa.gov/geomag/EMM/
 
+The python wrapper and subroutine are in the spirit of https://github.com/space-physics/wmm2020 but not as fancy or polished. 
